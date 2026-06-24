@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sentir-tu-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Sentir tu seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-seda/) |
+| **Get License** | [Get License For Sentir tu seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te vienes conmigo
+> Sintiendo tu seda bajo el cielo de Madrid
+> Baby, you're the one, te lo digo al oído
+> Nadie te calienta en la disco como yo a ti
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
