@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sentir tu seda
+
+This log tracks the cryptographic history and versioning for the song **Sentir tu seda** (sentir-tu-seda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T06:17:20.896128 | `v1` | `3fabaa457a6fc511d795613bd4b299aa820e262d815f50f4ac3d950573b8dea4` | `c9a7772b959e1620e38134cfeb7a152caacde240c52d1737c9064161e7d11c14` | `2026-06-24_sentir-tu-seda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

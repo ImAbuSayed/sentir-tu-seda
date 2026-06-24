@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sentir-tu-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Sentir tu seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-seda/) |
+| **Get License** | [Secure Licensing Rights for Sentir tu seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3fabaa457a6fc511d795613bd4b299aa820e262d815f50f4ac3d950573b8dea4` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
